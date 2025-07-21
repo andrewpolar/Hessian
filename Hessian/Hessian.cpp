@@ -4,7 +4,7 @@
 // License
 // If the end user somehow manages to make billions of US dollars using this code,
 // and happens to meet the developer begging for change outside a McDonald's,
-// they are under no obligation to buy the developer a sandwich.
+// he or she is under no obligation to buy the developer a sandwich.
 
 // Symmetry Clause
 // Likewise, if the developer becomes rich and famous by publishing this code,
